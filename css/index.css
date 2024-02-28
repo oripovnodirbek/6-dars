@@ -1,0 +1,33 @@
+.parent {
+     display: flex;
+     background-color: aqua;
+     justify-content: center;
+     align-items: flex-end;
+     max-width: 1200px;
+     
+}
+
+.child {
+    width: 300px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.child-green {
+    background-color: rgb(0, 128, 0);
+}
+
+.child-red {
+    background-color: #d81b1b;
+}
+
+.child-gold {
+    background-color: #fed908;
+}
+
+.child-blue {
+    background-color: blue;
+}

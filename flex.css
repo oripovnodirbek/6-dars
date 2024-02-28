@@ -1,0 +1,33 @@
+.parent {
+    display: flex;
+    /* flex-wrap: nowrap; */
+    background-color: lightblue;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.child {
+    width: 300px;
+    height: 300px;
+
+     text-align: center;
+     font-weight: bold;
+}
+
+.child-green {
+    background-color: rgb(38, 241, 31);
+}
+
+.child-gold {
+    background-color: rgb(255, 215, 0);
+}
+
+.child-blue {
+    background-color: rgb(8, 8, 252);
+}
+
+.child-red {
+    background-color: rgb(165, 42, 42);
+}
